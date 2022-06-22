@@ -1,8 +1,8 @@
 <h1 align="center">Event Platform</h1>
 
 <p align="center">
-  <a href="#-technologies">Setup</a> •
-  <a href="#-getting-started">Technologies</a> •
+  <a href="#-setup">Setup</a> •
+  <a href="#-technologies">Technologies</a> •
   <a href="#-license">License</a>
 </p>
 
