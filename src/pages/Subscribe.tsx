@@ -30,8 +30,6 @@ export function Subscribe() {
       },
     });
 
-    console.log(name, email);
-
     navigate('/event');
   }
   
